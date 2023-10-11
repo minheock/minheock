@@ -1,12 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=1E8CBE&height=180&section=header&text=minheock&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
 
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center"> Hi there ✨</h3>
 
 - 🤖 Junior developer passionate about everything
 
 </br>
-  <h3 align="center">It's Me! 🖐🏻🖐🏻</h3>
+  <h3 align="center">It's Me! 🖐🏻</h3>
   <p align="center">
     <a href="https://www.facebook.com/">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
