@@ -62,14 +62,6 @@
 </p>
 
 <p align="center">
-  <a href="https://opgc.me/#/users/minheock" target="_blank"><img src="https://api.opgc.me/githubs/users/minheock/tag/?theme=basic" /></a>
-</p>
-
-<p align="center">
-  <img align="center" width="400" src="https://github.com/minheock/minheock/blob/front/github-metrics.svg">
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minheock&theme=cobalt&show_icons=true" />
 </p>
 
