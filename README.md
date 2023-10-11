@@ -3,10 +3,10 @@
 
 <h3 align="center"> Hi there 👋</h3>
 
-- 😤 Always happy junior Front-end Developer
+- 🤖 Junior developer passionate about everything
 
 </br>
-  <h3 align="center">It's Me! 🙋‍♂️</h3>
+  <h3 align="center">It's Me! 🖐🏻🖐🏻</h3>
   <p align="center">
     <a href="https://www.facebook.com/">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>
@@ -55,7 +55,7 @@
 </p>
 
 </br>
-  <h3 align="center">My Stats </h3>
+  <h3 align="center">My Stats 🖳</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@80511dd2-bcc5-44be-893c-a0de3451278d"><img src="https://wakatime.com/badge/user/80511dd2-bcc5-44be-893c-a0de3451278d.svg" alt="Total time coded since Nov 21 2020" /></a>
