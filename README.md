@@ -14,10 +14,10 @@
     <a href="mailto:dygks0602@naver.com">
       <img src="https://img.shields.io/badge/E--Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
     </a>
-    <a href="https://harang-resume.notion.site/e745ead9704646ddad166eabf3c66d10">
+    <a href="https://notion.com">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=#000000"/>
     </a>
-    <a href="https://www.linkedin.com/in/seungmin95">
+    <a href="https://www.linkedin.com">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=#000000"/>
     </a>
   </p>
