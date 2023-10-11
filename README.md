@@ -55,6 +55,23 @@
 </p>
 
 </br>
+  <h3 align="center">My Stats </h3>
+
+<p align="center">
+  <a href="https://wakatime.com/@80511dd2-bcc5-44be-893c-a0de3451278d"><img src="https://wakatime.com/badge/user/80511dd2-bcc5-44be-893c-a0de3451278d.svg" alt="Total time coded since Nov 21 2020" /></a>
+</p>
+
+<p align="center">
+  <a href="https://opgc.me/#/users/minheock" target="_blank"><img src="https://api.opgc.me/githubs/users/minheock/tag/?theme=basic" /></a>
+</p>
+
+<p align="center">
+  <img align="center" width="400" src="https://github.com/minheock/minheock/blob/front/github-metrics.svg">
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minheock&theme=cobalt&show_icons=true" />
+</p>
 
 <!---
 minheock/minheock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
