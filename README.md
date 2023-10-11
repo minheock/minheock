@@ -60,7 +60,7 @@
 <p align="center">
   <a href="https://wakatime.com/@80511dd2-bcc5-44be-893c-a0de3451278d"><img src="https://wakatime.com/badge/user/80511dd2-bcc5-44be-893c-a0de3451278d.svg" alt="Total time coded since Nov 21 2020" /></a>
 </p>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minheock&theme=cobalt&show_icons=true" />
 </p>
